@@ -1,4 +1,4 @@
-# Full Scale AR Revit Plugin
+# Revit GLB Eporter
 
 Export 3D views from Revit 2026 to GLB format for use in AR applications.
 
@@ -14,6 +14,7 @@ Export 3D views from Revit 2026 to GLB format for use in AR applications.
 
 ## Features
 
+- Specify the origin of the GLB by placing AR QR Code.rfa in the model
 - Export 3D views to GLB with textures
 
 ## More Info
