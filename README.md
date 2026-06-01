@@ -1,4 +1,4 @@
-# Revit GLB Eporter
+# Revit GLB Exporter
 
 Export 3D views from Revit 2026 to GLB format for use in AR applications.
 
